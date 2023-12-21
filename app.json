@@ -1,0 +1,41 @@
+{
+  "expo": {
+    "name": "newshopmobile",
+    "slug": "newshopmobile",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.kslei.newshopmobile",
+      "config": {
+        "googleMaps": {
+          "apiKey": "AIzaSyDY9UE-vkhINt8fq8MeQCnpiDuTuX-xMxw"
+        }
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "f29c5155-2029-4170-89db-318ca378cc6a"
+      }
+    }
+  }
+}
