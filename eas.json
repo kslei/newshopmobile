@@ -25,7 +25,7 @@
     },
     "production": {
       "env": {
-        "REACT_APP_API_URL": "https://newshops.site/"
+        "REACT_APP_API_URL": "https://newshops.ksl-ei.pp.ua/"
       }
     }
   },
